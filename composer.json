@@ -1,6 +1,6 @@
 {
-    "name": "friendsofsymfony/oauth-server-bundle",
-    "description": "Symfony2 OAuth Server Bundle",
+    "name": "olek3t/oauth-server-bundle",
+    "description": "Fork of FOS OAuth Server Bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "keywords": [
